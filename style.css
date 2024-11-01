@@ -111,6 +111,10 @@ body {
 
 /*Estilo para video*/
 .video {
-    align-items: last baseline;
+    align-items: ;
 }
 
+/*estilo para vídeo*/
+.video-container {
+    border-radius: 5%;
+}
